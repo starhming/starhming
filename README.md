@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Hi，我是 hm，一个喜欢骑车🚴🏻的 passionate expert engineer。我最近的动态：
+Hi，我是鸿溟，一个喜欢骑车🚴🏻的 passionate expert engineer。我最近的动态：
 - My plan in 2024：
 - I’m currently working on `北京`
 - I’m currently reading `None`
